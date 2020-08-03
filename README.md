@@ -1,7 +1,7 @@
 # JavaScript30
 30 Days javaScript Challenge</br>
 Build 30 things in 30 days with 30 tutorials
-JavaScript Drum Kit 
+
 # Challenges
 - Day 1: [JavaScript Drum Kit](https://drumkitjavascript.netlify.app/)
 - Day 2: [CSS + JS Clock](https://cssandjsclock.netlify.app/)
