@@ -1,5 +1,5 @@
 # Drum-Kit
-Made a drum kit which plays audio when keys are pressed.</br>
+Made a drum kit that plays audio when keys are pressed.</br>
 [View it](https://drumkitjavascript.netlify.app/)
 
 ## Tech stacks used :-
