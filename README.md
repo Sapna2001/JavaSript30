@@ -10,7 +10,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 5: [Flex Panels Image Gallery](https://flexboxpanelgallery.netlify.app/)
 - Day 6: [Ajax Type Ahead](https://autosuggestion.netlify.app/)
 - Day 7: [Array Cardio Day 2](https://arraycardioday2.netlify.app/)
-- Day 8: [https://canvashtml.netlify.app/]
+- Day 8: [Fun with HTML5 Canvas](https://canvashtml.netlify.app/)
 
 
 # Course
