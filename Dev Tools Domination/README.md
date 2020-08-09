@@ -1,5 +1,5 @@
 # Dev Tools Domination
-Some cool dev tricks like console.time(),console styling,etc.
+Some cool dev tricks like console.time(),console styling,etc.</br>
 [View it](https://devtricks.netlify.app/) </br>
 Note:- Checkout the console.
 
