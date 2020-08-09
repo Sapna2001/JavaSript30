@@ -47,7 +47,7 @@ console.table(comments);
 
 const newArray = [
     ...comments.slice(0,index),
-    ...comments.slice(index+1)
+    ...comments.slice(index)
 ] //spread
 
-console.table(comments)
+console.table(newArray)
