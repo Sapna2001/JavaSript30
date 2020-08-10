@@ -26,7 +26,7 @@ function draw(e) {
 	// go to
 	ctx.lineTo(e.offsetX, e.offsetY);
 	ctx.stroke();
-	[lastX, lastY] = [e.offsetX, e.offsetY];
+	[lastX, lastY] = [e.offsetX, e.offsetY]; //destructuring of array
 
 	hue++;
 	if (hue >= 360) {
