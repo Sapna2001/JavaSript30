@@ -13,7 +13,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 8: [Fun with HTML5 Canvas](https://canvashtml.netlify.app/)
 - Day 9: [14 Must Know Dev Tools Tricks](https://devtricks.netlify.app/)
 - Day 10: [Hold Shift to Check Multiple Checkboxes](https://shiftcheckboxes.netlify.app/)
-- Day 11: [Custom HTML5 Video Player]()
+- Day 11: [Custom HTML5 Video Player](https://videoplayerjs.netlify.app/)
 - Day 12: [Key Sequence Detection (KONAMI CODE)](https://secretcode.netlify.app/)
 - Day 13: [Slide In on Scroll]()
 - Day 14: [Object and Arrays - Reference VS Copy]()
