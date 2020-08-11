@@ -9,3 +9,6 @@ Images slides in and out on scroll</br>
 
 # Sreenshot
 <img src="https://user-images.githubusercontent.com/56690856/89900902-f57e6200-dc01-11ea-9682-8dab677cd9cd.png">
+
+# Article Link
+https://john-dugan.com/javascript-debounce/
