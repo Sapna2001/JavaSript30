@@ -1,0 +1,46 @@
+// improve performance
+Debouncing
+Debouncing enforces that a function not be called again until a certain amount of time has passed without it being called. 
+For example, “execute this function only if 100 milliseconds have passed without it being called.”
+
+Throttle
+Throttling enforces a maximum number of times a function can be called over time. For example, “execute this function at most once 
+every 100 milliseconds.”
+
+Debouncing implementation
+// as long as it continues to be invoked, it will not be triggered
+function debounce (func, interval) {
+  var timeout;
+  return function () {
+    var context = this, args = arguments;
+    var later = function () {
+      timeout = null;
+      func.apply(context, args);
+    };
+    clearTimeout(timeout);
+    timeout = setTimeout(later, interval || 200);
+  }
+}
+
+Throttling implementation
+// as long as it continues to be invoked, raise on every interval
+function throttle (func, interval) {
+  var timeout;
+  return function() {
+    var context = this, args = arguments;
+    var later = function () {
+      timeout = false;
+    };
+    if (!timeout) {
+      func.apply(context, args)
+      timeout = true;
+      setTimeout(later, interval)
+    }
+  }
+}
+
+And usage
+var myHeavyFunction = debounce(function() {
+  // do heavy things
+}, 250);
+window.addEventListener('mousemove', myHeavyFunction);
