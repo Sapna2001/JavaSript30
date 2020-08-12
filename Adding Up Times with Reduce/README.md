@@ -6,5 +6,5 @@ Adding up time using reduce.</br>
 - HTML
 - Vanilla JavaScript
 
-# Sreenshot
-<img src="(https://user-images.githubusercontent.com/56690856/90051596-8aae5300-dcf5-11ea-9d13-241c94e74ab3.png)">
+# Screenshot
+<img src="https://user-images.githubusercontent.com/56690856/90051596-8aae5300-dcf5-11ea-9d13-241c94e74ab3.png">
