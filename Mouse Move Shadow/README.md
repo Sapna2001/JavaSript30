@@ -1,5 +1,5 @@
 # Mouse Move Shadow
-A shadow is created on hovering over text.
+A shadow is created on hovering over text.</br>
 [View it](https://onmoveshadow.netlify.app/)
 
 # Teach stacks used :-
