@@ -1,6 +1,6 @@
 # Mouse Move Shadow
-
-[View it]()
+A shadow is created on hovering over text.
+[View it](https://onmoveshadow.netlify.app/)
 
 # Teach stacks used :-
 - HTML
@@ -8,4 +8,4 @@
 - Vanilla JavaScript
 
 # Sreenshot
-<img src="">
+<img src="https://user-images.githubusercontent.com/56690856/90020478-8a9a5d00-dccd-11ea-825f-fe4478d148d0.png">
