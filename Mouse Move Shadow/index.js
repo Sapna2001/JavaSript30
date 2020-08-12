@@ -21,9 +21,9 @@ function shadow(e) {
     // console.log(y,height,yWalk);
     text.style.textShadow = `
     ${xWalk}px ${yWalk}px 0 red,
-    ${xWalk * -1}px ${yWalk * -1}px 0 blue,
+    ${xWalk * -1}px ${yWalk}px 0 blue,
     ${xWalk}px ${yWalk * -1}px 0 green,
-    ${xWalk * -1}px ${yWalk}px 0 yellow`;
+    ${yWalk * -1}px ${xWalk}px 0 yellow`;
     
 }
 
