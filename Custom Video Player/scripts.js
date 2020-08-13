@@ -27,8 +27,9 @@ function skip() {
 
 function handleRangeUpdate() {
 	video[this.name] = this.value;
-	console.log(this.name);
-	console.log(this.value);
+	// console.log(this);
+	// console.log(this.name);
+	// console.log(this.value);
 }
 
 function handleProgress() {
@@ -39,7 +40,7 @@ function handleProgress() {
 function scrub(e) {
 	const scrubTime = (e.offsetX / progress.offsetWidth) * video.duration;
 	video.currentTime = scrubTime;
-	console.log(e);
+	// console.log(e);
 }
 
 //eventListener
