@@ -17,7 +17,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 12: [Key Sequence Detection (KONAMI CODE)](https://secretcode.netlify.app/)
 - Day 13: [Slide In on Scroll](https://scrollslidein.netlify.app)
 - Day 14: [Object and Arrays - Reference VS Copy](https://jscopyreference.netlify.app/)
-- Day 15: [LocalStorage and Event Delegation](localstoragejs.netlify.app)
+- Day 15: [LocalStorage and Event Delegation](https://localstoragejs.netlify.app)
 - Day 16: [CSS Text Shadow Mouse Move Effect](https://onmoveshadow.netlify.app/)
 - Day 17: [Sorting Band Names without articles](https://sortwithoutarticles.netlify.app/)
 - Day 18: [Tally String Times with Reduce](https://sortwithoutarticles.netlify.app/)
