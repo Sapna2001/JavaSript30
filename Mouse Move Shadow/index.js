@@ -7,10 +7,11 @@ function shadow(e) {
 	//    const width = hero.offsetWidth;
 	//    const height = hero.offsetHeight;
 	const { offsetWidth: width, offsetHeight: height } = hero;
-	let { offsetX: x, offsetY: y } = e;
-	// console.log(this, e.target);
-	// console.log(x, y);
-	// console.log(e.target.offsetLeft, e.target.offsetTop);
+	let { offsetX: x, offsetY: y } = e; 
+	// console.log(this);
+	// console.log(e.target);
+	// console.log(x, y); //wrt the parent div
+	// console.log(e.target.offsetLeft, e.target.offsetTop); //wrt to whole screen
 	if (this != e.target) {
 		x = x + e.target.offsetLeft;
 		y = y + e.target.offsetTop;
