@@ -1,5 +1,5 @@
 const timeNode = document.querySelectorAll('[data-time]');
-// console.log(timeNodes);
+//console.log(timeNode);
 // time is node list
 //node list -> arraylist
 //The Array.from() static method creates a new, shallow-copied Array instance from an array-like or iterable object.
