@@ -24,7 +24,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 19: [Unreal Webcam Fun]()
 - Day 20: [Native Speech Recognition](https://speechdetection.netlify.app/)
 - Day 21: []()
-- Day 22: [Follow Along Links]()
+- Day 22: [Follow Along Links](https://highlighter.netlify.app/)
 - Day 23: [Speech Synthesis]()
 - Day 24: [Sticky Nav]()
 - Day 25: [Event Capture, Propagation, Bubbling and Once]()
