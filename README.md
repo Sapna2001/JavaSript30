@@ -20,7 +20,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 15: [LocalStorage and Event Delegation](https://localstoragejs.netlify.app)
 - Day 16: [CSS Text Shadow Mouse Move Effect](https://onmoveshadow.netlify.app/)
 - Day 17: [Sorting Band Names without articles](https://sortwithoutarticles.netlify.app/)
-- Day 18: [Tally String Times with Reduce](https://sortwithoutarticles.netlify.app/)
+- Day 18: [Tally String Times with Reduce](https://reducejs.netlify.app/)
 - Day 19: [Unreal Webcam Fun]()
 - Day 20: [Native Speech Recognition](https://speechdetection.netlify.app/)
 - Day 21: []()
