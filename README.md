@@ -25,7 +25,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 20: [Native Speech Recognition](https://speechdetection.netlify.app/)
 - Day 21: [Relaxer](https://breathe-relaxer.netlify.app)
 - Day 22: [Follow Along Links](https://highlighter.netlify.app/)
-- Day 23: [Speech Synthesis]()
+- Day 23: [Speech Synthesis](https://speechsynthesisjs.netlify.app/)
 - Day 24: [Sticky Nav](https://stickynavjs.netlify.app/)
 - Day 25: [Event Capture, Propagation, Bubbling and Once]()
 - Day 26: [Stripe Follow Along Dropdown]()
