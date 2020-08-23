@@ -1,6 +1,6 @@
 # Relaxer App
 A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out. </br>
-[View it](breathe-relaxer.netlify.app)
+[View it](https://breathe-relaxer.netlify.app)
 
 # Tech stacks
 - HTML
