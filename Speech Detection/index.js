@@ -15,6 +15,7 @@ recognition.lang = "en-US";
 let p = document.createElement("p");
 const words = document.querySelector(".words");
 words.appendChild(p);
+// appendChild() method adds a node to the end of the list of children of a specified parent node
 
 recognition.addEventListener("result", (e) => {  //list
     // console.log(e);
