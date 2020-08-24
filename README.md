@@ -27,7 +27,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 22: [Follow Along Links](https://highlighter.netlify.app/)
 - Day 23: [Speech Synthesis](https://speechsynthesisjs.netlify.app/)
 - Day 24: [Sticky Nav](https://stickynavjs.netlify.app/)
-- Day 25: [Event Capture, Propagation, Bubbling and Once]()
+- Day 25: [Event Capture, Propagation, Bubbling and Once](https://capture-bubbling-once-propagation-js.netlify.app/)
 - Day 26: [Stripe Follow Along Dropdown]()
 - Day 27: [Click and Drag to Scroll]()
 - Day 28: [Video Speed Controller UI]()
