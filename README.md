@@ -30,7 +30,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 25: [Event Capture, Propagation, Bubbling and Once](https://capture-bubbling-once-propagation-js.netlify.app/)
 - Day 26: [Stripe Follow Along Dropdown]()
 - Day 27: [Click and Drag to Scroll]()
-- Day 28: [Video Speed Controller UI]()
+- Day 28: [Video Speed Controller UI](https://video-speed-controller.netlify.app/)
 - Day 29: [Countdown Clock]()
 - Day 30: [Whack A Mole Game]()
 
