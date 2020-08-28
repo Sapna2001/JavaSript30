@@ -9,7 +9,7 @@ function logText(e){
 divs.forEach(
     div => div.addEventListener("click",logText,{
         capture: true,  // top -> bottom (one two three) 
-        // capture: true -> three two one 
+        // capture: false -> three two one 
         once: true //onclick unbinds itself which basically means remove 
     })
 )
