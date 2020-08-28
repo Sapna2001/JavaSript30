@@ -32,7 +32,7 @@ Build 30 things in 30 days with 30 tutorials
 - Day 27: [Click and Drag to Scroll](https://click-and-drag-js.netlify.app/)
 - Day 28: [Video Speed Controller UI](https://video-speed-controller.netlify.app/)
 - Day 29: [Countdown Clock]()
-- Day 30: [Whack A Mole Game]()
+- Day 30: [Whack A Mole Game](https://whack-a-mole-js.netlify.app/)
 
 
 # Course
