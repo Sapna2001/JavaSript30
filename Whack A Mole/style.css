@@ -23,7 +23,7 @@ h1 {
 	margin-bottom: 0;
 }
 
-.score {
+.scoreshow {
 	background: rgba(255, 255, 255, 0.2);
 	padding: 0 3rem;
 	line-height: 1;
@@ -72,5 +72,33 @@ h1 {
 
 button{
   margin-left: 5vh;
+  width: 100px;
+  height: 50px;
 }
 
+.wrapper{
+	font-size: 3rem;
+	border:double black;
+	width:30vw;
+	margin: 8vh 0 5vh 35vw;
+	padding-bottom: 5vh;
+}
+
+.score{
+	text-align: center;
+}
+
+.scoreText{
+	font-size: 4rem;
+}
+
+.row{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 3vh;
+}
+
+h2{
+	font-size: 3rem;
+}
