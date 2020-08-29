@@ -38,4 +38,6 @@ slider.addEventListener("mouseleave",()=>{
 // Event Mouseout will trigger when mouse leaves the selected element and also when mouse leaves it's child elements also.
 // Event Mouseleave element will trigger when pointer will leave the selected element only.
 
+// The offsetLeft property returns the left position (in pixels) relative to the left side the offsetParent element. 
+// The Element.scrollLeft property gets or sets the number of pixels that an element's content is scrolled from its left edge.
   
