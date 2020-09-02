@@ -28,10 +28,10 @@ Build 30 things in 30 days with 30 tutorials
 - Day 23: [Speech Synthesis](https://speechsynthesisjs.netlify.app/)
 - Day 24: [Sticky Nav](https://stickynavjs.netlify.app/)
 - Day 25: [Event Capture, Propagation, Bubbling and Once](https://capture-bubbling-once-propagation-js.netlify.app/)
-- Day 26: [Stripe Follow Along Dropdown]()
+- Day 26: [Stripe Follow Along Dropdown](https://follow-along-nav-js.netlify.app/)
 - Day 27: [Click and Drag to Scroll](https://click-and-drag-js.netlify.app/)
 - Day 28: [Video Speed Controller UI](https://video-speed-controller.netlify.app/)
-- Day 29: [Countdown Clock]()
+- Day 29: [Countdown Clock](https://countdown-timer-javascript.netlify.app/)
 - Day 30: [Whack A Mole Game](https://whack-a-mole-js.netlify.app/)
 
 
